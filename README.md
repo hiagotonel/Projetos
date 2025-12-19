@@ -9,7 +9,7 @@ Mês 1: Estrutura e Vitrine
 • Foco: Exibição dos serviços para o cliente.
 • Entregáveis (Git):
 • [X] Setup do projeto React (Vite).
-• [ ] Configuração de Rotas: /, /login, /admin, /meus-pedidos.
+• [X] Configuração de Rotas: /, /login, /admin, /meus-pedidos.
 • [ ] Tela Home (Vitrine): Grid de cards consumindo GET /services.
 • [ ] Tela de Detalhes: Ao clicar no card, abre página com descrição completa e preço.
 
