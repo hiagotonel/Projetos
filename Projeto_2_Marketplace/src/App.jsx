@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 import Home from './pages/Home.jsx';
 import Admin from './pages/Admin.jsx';
-import Login from './pages/Login.jsx';
+import Login from './pages/Logina.jsx';
 import Profile from './pages/Profile.jsx';
 import Services from './pages/Services.jsx';
 import Orders from './pages/Orders.jsx';
