@@ -1,7 +1,11 @@
+import './home.css';
+
 function Home(){
     return(
         <>
-            Tela de Inicio
+            <div id="home">
+                ai mds
+            </div>
         </>
     )
 }
